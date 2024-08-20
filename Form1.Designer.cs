@@ -131,6 +131,7 @@
             // lblTotal
             // 
             this.lblTotal.AutoSize = true;
+            this.lblTotal.ForeColor = System.Drawing.SystemColors.ControlText;
             this.lblTotal.Location = new System.Drawing.Point(159, 668);
             this.lblTotal.Name = "lblTotal";
             this.lblTotal.Size = new System.Drawing.Size(0, 13);
